@@ -1,3 +1,8 @@
-# face-injector-fixed
-able inject into rust Alkad with EAC,
-original - https://github.com/KANKOSHEV/face-injector-v2
+# shitinjector
+yeahhhh
+
+# how to use
+drop injector and dll to same folder and rename dll to 1.dll after open exe and havefun:!!U(!()I'(
+
+# warning
+dont create .sln file or source will crash-broke open from .vcxproj
